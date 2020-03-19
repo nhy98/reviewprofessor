@@ -1,0 +1,41 @@
+.font-header{
+    font-family: "Orbitron";
+    color: #DFB734;
+    font-size: 30px;
+    text-align: center;
+    background-color:#102131;
+    padding: 10px;
+}
+.card-view{
+    justify-content: center;
+    padding: 10px;
+    border-color: #102131;
+    height: 30%;
+}
+.card-name{
+    font-family: Verdana, sans-serif;
+    font-size: 14pt;
+    color: #DFB734;
+    text-align: center
+}
+.card-text{
+    font-family: 'Comic Sans MS', sans-serif;
+    color: #102131;
+}
+.card-info{
+    justify-content: center;
+    padding: 10px;
+    border-color: #DFB734;
+}
+.card-info-header{
+    font-family: 'Comic Sans MS', sans-serif;
+    background: #102131;
+    color: white;
+    font-size: 14pt;
+
+}
+.button-see-reviews{
+    background-color: #DFB734;
+    border-radius: 5px; 
+    justify-content: center;
+}

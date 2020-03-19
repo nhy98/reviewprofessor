@@ -1,0 +1,88 @@
+@import url('https://fonts.googleapis.com/css?family=Orbitron&display=swap');
+.checked{
+    color:orange;
+}
+
+.font-header{
+    font-family: "Orbitron";
+    color: #DFB734;
+    font-size: 30px;
+    text-align: center;
+    background-color:#102131;
+    padding: 10px;
+
+}
+.font-card{
+    font-family: 'Comic Sans MS', sans-serif;
+    color: #102131;
+    font-size: 16px
+}
+.font-card-body{
+    font-family: 'Comic Sans MS', sans-serif;
+    color: #102131;
+}
+.font-title{
+    font-family: 'Comic Sans MS', sans-serif;
+    color: #102131;
+    text-align: left;
+}
+
+.icon-padding{
+    padding-right: 5px;
+}
+.slider {
+    -webkit-appearance: none;
+    width: 50%;
+    height: 5px;
+    border-radius: 5px;
+    background: #d3d3d3;
+    outline: none;
+    opacity: 0.7;
+    -webkit-transition: .2s;
+    transition: opacity .2s;
+  }
+
+  .slider::-webkit-slider-thumb {
+    -webkit-appearance: none;
+    appearance: none;
+    width: 15px;
+    height: 15px;
+    border-radius: 50%;
+    background: #DFB734;
+    cursor: pointer;
+  }
+
+  .slider::-moz-range-thumb {
+    width: 15px;
+    height: 15px;
+    border-radius: 50%;
+    background: #DFB734;
+    cursor: pointer;
+  }
+.card-whole{
+    border-color: #DFB734;
+    margin: 0 auto;
+    float: none;
+    margin-bottom: 10px;
+}
+
+.card-header{
+    background-color: white;
+}
+.card-footer{
+    background-color: white;
+}
+.button-check{
+    background-color: #DFB734;
+    border-radius: 5px;
+
+}
+.button-last {
+display: flex;
+justify-content: flex-end;
+}
+
+.hust-bg-last{
+    background-image: linear-gradient(to top,#102131,#102131);
+    border: 0px;
+}

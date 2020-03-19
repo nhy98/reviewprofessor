@@ -1,0 +1,226 @@
+{
+  "layout_common": {
+    "username": "Tên tài khoản (*)",
+    "admin": "Quản trị viên",
+    "super_admin": "Quản trị viên cấp cao",
+    "cashier": "Thu ngân",
+    "no_content": "Không có giá trị",
+    "search": "Tìm kiếm",
+    "search_detail": "Tìm kiếm chi tiết",
+    "detail": "Chi tiết",
+    "day": "Ngày",
+    "month": "Tháng",
+    "year": "Năm",
+    "chart": "Biểu đồ",
+    "point": "Point",
+    "description": "Mô tả",
+    "create_at": "Ngày tạo",
+    "update_at": "Ngày cập nhật",
+    "back": "Quay lại",
+    "default": "Mặc định",
+    "action": "Hoạt động",
+    "id": "Id",
+    "edit": "Sửa",
+    "del": "Xóa",
+    "add": "Thêm",
+    "reset": "Làm mới",
+    "time": "Thời gian",
+    "dashboard": "Bảng điều khiển",
+    "new": "MỚI",
+    "account": "Tài khoản",
+    "setting": "Cài đặt",
+    "logout": "Đăng xuất",
+    "ok": "Đồng ý",
+    "cancel": "Hủy",
+    "product": "Sản phẩm",
+    "confirm": "Xác nhận",
+    "confirm_print_qr": "Bạn có muốn In danh sách mã QR không ?",
+    "confirm_del_product": "Bạn có muốn xóa sản phẩm: ",
+    "approve": "Approved",
+    "reject": "Reject",
+    "date_error": "{} thời gian không hợp lệ.",
+    "waiting": "Chờ",
+    "inprogress": "Đang xử lý",
+    "success": "Thành công",
+    "fail": "Thất bại"
+  },
+  "layout_login": {
+    "title": "Đăng nhập",
+    "desciption": "Đăng nhập vào tài khoản của bạn",
+    "placeholder": {
+      "password": "Mật khẩu (*)"
+    },
+    "label": {
+      "remember": "Nhớ",
+      "forgot_password": "Quên mật khẩu"
+    },
+    "user_name_empty": "Hãy nhập Tên Tài Khoản!",
+    "pass_word_empty": "Hãy nhập Mật Khẩu!",
+    "E401": "Đăng nhập thất bại!"
+  },
+  "layout_correlation": {
+    "title": "Biểu đồ tương quan hàng hóa",
+    "description": "Biểu đồ"
+  },
+  "layout_revenue": {
+    "manager_revenue": "Quản lý doanh thu",
+    "total_revenue": "Tổng doanh thu",
+    "revenue": "Doanh thu",
+    "card": {
+      "title": "Biểu đồ tổng doanh thu"
+    },
+    "detail": {}
+  },
+
+  "layout_transaction": {
+    "manager_transaction": "Quản lý giao dịch",
+    "total_transaction": "Tổng giao dịch",
+    "transaction": "Giao dịch",
+    "card": {
+      "title": "Biểu đồ tổng giao dịch"
+    },
+    "trans_detail": "Chi tiết giao dịch",
+    "detail": {
+      "sender": "Người gửi",
+      "receiver": "Người nhận",
+      "type": "Kiểu",
+      "status": "Trạng thái"
+    }
+  },
+  "layout_currency": {
+    "manager_currency": "Quản lý lượng tiền lưu thông",
+    "total_currency": "Tổng lượng tiền lưu thông",
+    "currency": "Lượng tiền lưu thông",
+    "card": {
+      "title": "Biểu đồ lượng tiền lưu thông"
+    },
+    "detail": {}
+  },
+  "bill": {
+    "bill": "Hóa đơn",
+    "bill_detail": "Chi tiết hóa đơn",
+    "customer": "Khách hàng",
+    "payment_date": "Ngày thanh toán",
+    "total": "Tổng",
+    "product": "Tên sản phẩm",
+    "amount": "Số lượng",
+    "price": "Giá",
+    "code": "Mã sản phẩm"
+  },
+  "paging": {
+    "pre": "Trước",
+    "next": "Tiếp"
+  },
+  "bonus": {
+    "file_input": "Nhập file",
+    "file_name": "Tên file",
+    "point_number": "Số point",
+    "bonus_point": "Thưởng Point",
+    "bonus_program": "Chương trình thưởng",
+    "search_user": "Tìm kiếm người dùng",
+    "export": "Xuất File",
+    "import_file": "Nhập file",
+    "list_user_bonus": "Danh sách thưởng Point",
+    "pl_select": "Vui lòng chọn",
+    "bonus_immediately": "Thưởng nóng",
+    "bonus_schedule": "Thưởng theo lịch",
+    "bonus_list": "Danh sách Thưởng Point",
+    "code": "Mã",
+    "bonusName": "Tên",
+    "description": "Mô tả",
+    "bonusPoint": "Point",
+    "startTime": "Thời Gian Bắt Đầu",
+    "endTime": "Thời Gian Kết Thúc",
+    "status": "Trạng thái",
+    "Failure": "Thất bại",
+    "Inactive": "Hết hiệu lực",
+    "Draft": "Đề xuất",
+    "Approved": "Phê duyệt",
+    "Inprocess": "Đang xử lý",
+    "Done": "Hoàn thành",
+    "DoneWithWarning": "Hoàn thành một phần",
+    "Waiting": "Đang chờ xử lý",
+    "Success": "Thành công",
+    "memberCode": "Mã nhân viên",
+    "fullName": "Họ và tên",
+    "popupTOTPHeader": "Nhập mã OTP:",
+    "enter_description": "Vui lòng nhập mô tả",
+    "enter_bonus": "Vui lòng chọn chương trình thưởng",
+    "enter_point": "Vui lòng nhập số point",
+    "enter_list_user": "Vui lòng nhập danh sách người dùng"
+  },
+  "layout_manager_product": {
+    "manager_product": "Quản lý hàng hóa",
+    "list_product": "Danh sách hàng hóa",
+    "manager_list_file_import": "Quản lý phiếu nhập kho",
+    "add_product": "Thêm sản phẩm",
+    "export_file": "Xuất file",
+    "export_qr": "Xuất mã QR",
+    "print": "In",
+    "list_file_import": "Danh sách file nhập",
+    "file_name": "Tên file",
+    "user_import": "Người nhập",
+    "product_detail": "Chi tiết sản phẩm",
+    "product_id": "Id sản phẩm",
+    "info_file_import": "Thông tin file nhập",
+    "list_qr_product": "Danh sach ma QR cua san pham"
+  },
+  "layout_manager_user": {
+    "manager_user": "Quản lý người dùng",
+    "list_user": "Danh sách người dùng",
+    "search_user": "Tìm kiếm người dùng",
+    "member_code": "Mã nhân viên",
+    "fullname": "Họ và tên",
+    "holiday_number": "Số ngày nghỉ",
+    "role": "Quyền",
+    "phone_number": "Số điện thoại",
+    "email": "Email",
+    "user_detail": "Chi tiết người dùng",
+    "user": "Người dùng"
+  },
+  "msg_error": {
+    "E40001": "{}: Hãy nhập thông tin",
+    "E40002": "{}: Vui lòng nhập kí tự số",
+    "E40003": "{}: Vui lòng nhập {} kí tự",
+    "E40004": "Không đúng định dạng JSON",
+    "E40007": "Dữ liệu không tồn tại",
+    "E40011": "{}: Hãy nhập đúng format {} !",
+    "E40017": "{} Giới hạn lớn nhất là {} kí tự",
+    "E40018": "Không được phép thay đổi quyền của người dùng này",
+    "E40027": "{} nhỏ hơn {} !",
+    "E40028": "Lỗi giải mã",
+    "E40032": "Không thể tìm thấy file [%s]",
+    "E40101": "Xác thực lỗi",
+    "E40301": "Hết hạn truy cập",
+    "E40401": "Dữ liệu được chỉ định không tồn tại",
+    "E40501": "Phương thức truy cập API không được phép",
+    "E40801": "Hết hạn",
+    "E40901": "Không thể xử lý yêu cầu do xung đột",
+    "E50001": "Lỗi server. Vui lòng liên hệ với quản trị viên",
+    "E50901": "Vượt quá giới hạn cho phép",
+    "E400": "E400",
+    "E401": "E401",
+    "E403": "E403",
+    "E404": "E404",
+    "E405": "E405",
+    "E408": "E408",
+    "E409": "E409",
+    "E500": "E500",
+    "E509": "E509",
+    "E000": "Hệ thống đang bận",
+    "E001": "Lỗi truy cập",
+    "description": "Biểu đồ"
+  },
+  "response": {
+    "no_content": "Không có giá trị",
+    "success": "Thành công"
+  },
+  "error_validate": {
+    "EV000": "Vui lòng nhập các trường yêu cầu !",
+    "EV001": "Vui lòng nhập ngày bắt đầu nhỏ hơn ngày kết thúc !",
+    "EV002": "Vui lòng nhập mã hóa đơn !",
+    "EV003": "Vui lòng nhập Tên hoặc Mã nhân viên !",
+    "EV004": "Vui lòng nhập kí tự số !",
+    "EV005": "Nhập sai định dạng ngày !"
+  }
+}

@@ -1,0 +1,128 @@
+.hust-bg {
+    background-image: linear-gradient(to right,#3494E6,#EC6EAD);
+    border: 0px;
+}
+.hust-red-bg {
+    background-image: linear-gradient(to right,#e21414,#d15e12);
+    border: 0px;
+}
+.md-avatar {
+  width: 25px;
+  height: 25px;
+}
+
+.card-header {
+    background-color: inherit;
+}
+
+.full-scr {
+  margin-left: -6vw;
+  padding-left: 6vw;
+  margin-right: -6vw;
+  padding-right: 6vw;
+}
+
+.app-header {
+    background-image: linear-gradient(to right,#3494E6,#EC6EAD);
+    border: 0px;
+    transition: margin-left 0.25s, margin-right 0.25s, width 0.25s, flex 0.25s;
+}
+.register-bg {
+    background: rgba(0, 0, 0, 0.8);
+    border: 0px;
+}
+
+.turn-blue:hover {
+    color: #3494E6;
+}
+
+.sidebar {
+    background: rgba(0, 0, 0, 0.5);
+    border: 0px;
+    border-radius: 15px;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.4);
+    height: calc(100vh - 55px);
+}
+
+.ikon {
+    background-color: white;
+}
+
+.dropdown-menu {
+    background: rgba(0, 0, 0, 0.5);
+    border: 0px;
+    border-radius: 15px;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.4);
+}
+
+.dropdown-header {
+    display: block;
+    padding: 0 1.5rem;
+    margin-bottom: 0;
+    font-size: 0.76563rem;
+    background: rgba(0, 0, 0, 0.5);
+    white-space: nowrap;
+}
+
+.dropdown-item {
+    position: relative;
+    padding: 10px 20px;
+    border-bottom: 0px;
+}
+
+.speech-bubble {
+	position: relative;
+	background-image: linear-gradient(to right,#3494E6,#EC6EAD);
+	border: 0px;
+}
+
+.speech-bubble:after {
+	content: '';
+	position: absolute;
+	bottom: 0;
+	left: 50%;
+	width: 0;
+	height: 0;
+	border: 20px solid transparent;
+	border-top-color: #EC6EAD;
+	border-bottom: 0;
+	margin-left: -20px;
+	margin-bottom: -20px;
+}
+
+.login-bg {
+    background: rgba(0, 0, 0, 0.5);
+    border: 0px;
+}
+
+.text-bg {
+    color: rgba(0, 0, 0, 0.8) !important;
+}
+.opaque-bg {
+    mix-blend-mode: overlay;
+}
+#parent{
+    height: 100%;
+    width: 100%;
+    overflow: hidden;
+}
+
+#child{
+    width: 100%;
+    height: 100%;
+    overflow-y: scroll;
+    padding-right: 17px; /* Increase/decrease this value for cross-browser compatibility */
+    box-sizing: content-box; /* So the width will be 100% + 17px */
+}
+
+.multiply-bg {
+    mix-blend-mode: multiply !important;
+}
+.shadow-box {
+    border-radius: 15px;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.4);
+}
+
+.rounded-border {
+    border-radius: 15px;
+}

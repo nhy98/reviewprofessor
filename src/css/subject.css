@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css?family=Orbitron&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Anton|Ranga&display=swap');
+.font-header{
+    font-family: "Comic Sans MS";
+    color: rgb(40, 178, 224);
+    font-size: 20px;
+    border-bottom: 2px solid grey;
+    text-align: center;
+    padding: 5px;
+    margin: 10px;
+}
+.font-title1{
+    font-family: 'Orbitron', sans-serif;
+    font-weight: bold;
+    color: rgb(226, 19, 115);
+}
+.font-header1{
+    font-family: 'Anton', sans-serif;
+    font-size: 30px;
+    color: lightcoral
+}
+.font-sub{
+    font-family: 'Ranga', cursive;
+    font-size: 25px;
+    padding-left: 10px;
+    color:white;
+}
+.padding-search{
+    padding: 15px;
+}
+.background{
+    background-image: url("https://c.wallhere.com/photos/43/90/2560x1600_px_abstract_Colorful_Gradient_Simple_Background-783367.jpg!d")
+}
+.width-max{
+    width: 100%;
+}
+.pagi-center{
+    display: flex;
+    justify-content: center;
+}
